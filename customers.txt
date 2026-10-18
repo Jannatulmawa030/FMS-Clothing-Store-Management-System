@@ -1,0 +1,11 @@
+C101|Tanvir Hasan|tanvir.hasan@gmail.com|100
+C102|Nusrat Jahan|nusrat.jahan@gmail.com|250
+C103|Ayesha Siddiqua|ayesha.s@gmail.com|50
+C104|Rahim Ahmed|rahim.ahmed@gmail.com|224
+C105|Mehreen Chowdhury|mehreen.c@gmail.com|320
+C106|Tariqul Islam|tariqul.islam@gmail.com|0
+C107|Farhana Rahman|farhana.r@gmail.com|410
+C108|Siam Hossain|siam.hossain@gmail.com|120
+C109|Tasnim Akter|tasnim.akter@gmail.com|90
+C110|Kamrul Kabir|kamrul.kabir@gmail.com|210
+C111|Faiza Islam|faiza@gmail.com|8

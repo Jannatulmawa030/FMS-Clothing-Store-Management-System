@@ -1,0 +1,78 @@
+P101|Saree|Kanjeevaram Silk Saree|Ethnic|12000.0|10
+P102|Saree|Banarasi Zari Saree|Ethnic|5000.0|8
+P103|Saree|Chanderi Cotton Saree|Ethnic|4500.0|25
+P104|Saree|Georgette Floral Printed Saree|Ethnic|3500.5|18
+P105|Saree|Tussar Silk Handloom Saree|Ethnic|9500.0|12
+P106|Blouses|Silk Wrap Front Blouse|Tops|1500.0|20
+P107|Blouses|Satin Button-Down Blouse|Tops|2000.0|15
+P108|Blouses|Chiffon Peplum Blouse|Tops|1500.0|22
+P109|Blouses|V-Neck Embroidered Blouse|Tops|2500.0|18
+P110|CropTops|Ribbed Knit Crop Top|Tops|1900.0|30
+P111|CropTops|Floral Summer Sleeveless Crop|Tops|2200.0|25
+P112|CropTops|Off-Shoulder Cotton Crop Top|Tops|2000.0|20
+P113|CropTops|Long Sleeve Seamless Crop Top|Tops|2800.0|15
+P114|Sweaters|Oversized Chunky Knit Sweater|Winterwear|5900.0|15
+P115|Sweaters|Cashmere Turtleneck Sweater|Winterwear|4500.0|10
+P116|Sweaters|V-Neck Cable Knit Sweater|Winterwear|3000.0|20
+P117|Sweaters|Cardigan Button-Up Sweater|Winterwear|4500.0|18
+P118|Tees|Classic Crewneck Graphic Tee|Tops|1900.0|40
+P119|Tees|Organic Cotton Heavyweight Tee|Tops|2400.0|35
+P120|Tees|Striped Relaxed Fit Tee|Tops|2100.0|30
+P121|Tees|Vintage Pocket Graphic Tee|Tops|2600.0|25
+P122|Jeans|High-Waist Straight Leg Denim|Bottoms|5400.0|30
+P123|Jeans|Slim Fit Stretch Jeans|Bottoms|4900.0|35
+P124|Jeans|Wide-Leg Retro Denim|Bottoms|5900.0|20
+P125|Jeans|Ripped Skinny Distressed Jeans|Bottoms|4500.0|25
+P126|Jeans|Bootcut Dark Wash Jeans|Bottoms|6400.0|18
+P127|Trousers|Tailored High-Waist Trousers|Bottoms|2000.0|15
+P128|Trousers|Slim Fit Pleated Trousers|Bottoms|1500.0|20
+P129|Trousers|Wide-Leg Linen Trousers|Bottoms|1800.0|22
+P130|Trousers|Ankle-Length Stretch Trousers|Bottoms|1900.0|25
+P131|Skirts|Pleated Midi A-Line Skirt|Bottoms|2500.0|20
+P132|Skirts|Denim Mini Skirt|Bottoms|2900.0|25
+P133|Skirts|Floral Tiered Maxiskirt|Bottoms|2200.0|15
+P134|Skirts|Pencil High-Waist Skirt|Bottoms|2300.0|18
+P135|Shorts|Casual Drawstring Linen Shorts|Bottoms|2200.0|30
+P136|Shorts|High-Rise Denim Cutoff Shorts|Bottoms|1200.0|25
+P137|Shorts|Tailored Bermudas Shorts|Bottoms|1300.0|20
+P138|Shorts|Athletic Sweat Shorts|Bottoms|1800.0|35
+P139|Leggings|High-Rise Seamless Athletic Leggings|Bottoms|2900.0|40
+P140|Leggings|Thermal Winter Fleece Leggings|Bottoms|2200.0|30
+P141|Leggings|Faux Leather Ankle Leggings|Bottoms|2100.0|20
+P142|Leggings|Capri Performance Workout Leggings|Bottoms|2500.0|35
+P143|Blazer|Double-Breasted Structured Blazer|Outerwear|8900.0|12
+P144|Blazer|Single-Button Tailored Blazer|Outerwear|7900.0|15
+P145|Blazer|Oversized Casual Boyfriend Blazer|Outerwear|8400.0|10
+P146|Blazer|Linen Summer Blazer|Outerwear|7500.0|14
+P147|Jackets|Classic Moto Leather Jacket|Outerwear|5000.0|8
+P148|Jackets|Denim Trucker Jacket|Outerwear|6500.0|20
+P149|Jackets|Puffer Winter Insulated Jacket|Outerwear|3500.0|12
+P150|Jackets|Lightweight Windbreaker Jacket|Outerwear|4900.0|25
+P151|TrenchCoat|Belted Double-Breasted Wool Trench Coat|Outerwear|5400.0|6
+P152|TrenchCoat|Classic Waterproof Long Trench Coat|Outerwear|4500.0|10
+P153|TrenchCoat|Lightweight Spring Duster Trench Coat|Outerwear|3500.0|8
+P154|Heels|Classic Ankle Strap Stiletto Heels|Footwear|5600.0|15
+P155|Heels|Block Heel Leather Pumps|Footwear|4500.0|18
+P156|Heels|Suede Strappy Open-Toe Heels|Footwear|5900.0|20
+P157|Heels|Pointed Toe Kitten Heels|Footwear|5400.0|16
+P158|Boots|Leather Chelsea Ankle Boots|Footwear|5600.0|14
+P159|Boots|Knee-High Suede Fashion Boots|Footwear|4500.0|9
+P160|Boots|Lace-Up Combat Platform Boots|Footwear|5600.0|18
+P161|Boots|Waterproof Winter Snow Boots|Footwear|4800.0|15
+P162|Sneakers|Urban Low-Top Canvas Sneakers|Footwear|3500.0|25
+P163|Sneakers|Chunky Platform Streetwear Sneakers|Footwear|3500.0|20
+P164|Sneakers|Lightweight Running Sport Sneakers|Footwear|5600.0|30
+P165|Sneakers|Retro Leather Court Sneakers|Footwear|5500.0|15
+P166|Jewellary|18K Gold Layered Pendant Necklace|Accessories|4500.0|20
+P167|Jewellary|Sterling Silver Diamond Stud Earrings|Accessories|1200.0|12
+P168|Jewellary|Adjustable Charm Chain Bracelet|Accessories|2000.0|25
+P169|Jewellary|Rose Gold Solitaire Gemstone Ring|Accessories|4000.0|15
+P170|Jewellary|Freshwater Pearl Drop Earrings|Accessories|1000.0|18
+P171|Shirt|Formal Cotton Business Shirt|Apparel|2500.0|20
+P172|Shirt|Casual Linen Button-Down Shirt|Apparel|2800.0|15
+P173|Shirt|Slim Fit Oxford Shirt|Apparel|2200.0|25
+P174|Shirt|Denim Casual Shirt|Apparel|3000.0|18
+P175|Pant|Formal Chino Pants|Bottoms|3200.0|22
+P176|Pant|Slim Fit Stretch Cotton Pant|Bottoms|2800.0|30
+P177|Pant|Cargo Casual Utility Pant|Bottoms|3500.0|15
+P178|Pant|Relaxed Fit Flat Front Pant|Bottoms|2900.0|20
